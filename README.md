@@ -4,6 +4,20 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=maythamfahmi&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/maythamfahmi)
 
+And with Mermaid 😃
+
+```mermaid
+flowchart TD;
+  A[Start]-->B{Are you happy?};
+  B -- Yes --> C[Yes];
+  B -- No --> D[No];
+  C ----> E[Enjoy your day];
+  D ----> F[Try again];
+  F --> B
+```
+
+
+
 <!--
 **maythamfahmi/maythamfahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
