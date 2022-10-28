@@ -4,6 +4,8 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=maythamfahmi&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/maythamfahmi)
 
+Following are selected personal projects and repos:
+
 <!--
 **maythamfahmi/maythamfahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
